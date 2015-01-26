@@ -10,8 +10,8 @@ Completed user stories:
  * [x] Required: User can edit their entries 
  * [x] Required: Items persist after app is closed
  * [x] Required: Code has been pushed to GitHub (durr)
- * [ ] Required: README has been added and video will be uploaded soon
- * [ ] Required: I will create an issue and /cc @codepathreview @codepath
+ * [x] Required: README has been added (video is uploaded for viewing on YouTube)
+ * [x] Required: I will create an issue and /cc @CoderRed99
 
 
 Notes:
