@@ -12,7 +12,11 @@ Completed user stories:
  * [x] Required: Code has been pushed to GitHub (durr)
  * [ ] Required: README has been added and video will be uploaded soon
  * [ ] Required: I will create an issue and /cc @codepathreview @codepath
+
+
 Notes:
 
 Spent time getting used to the material design libraries and how to edit themes.
+
+You can see a video of the app here: https://www.youtube.com/watch?v=jvCIDNiFB7M&feature=youtu.be
 
